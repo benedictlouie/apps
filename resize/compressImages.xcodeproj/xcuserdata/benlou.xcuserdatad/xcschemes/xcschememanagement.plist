@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>compressImages.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>shareResizedImages.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F83AEE3C22E176D200582EBB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8BD15CF22D58D6D00249BD6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8BD15E322D58D6E00249BD6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8BD15EE22D58D6E00249BD6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
